@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=svijaym&show_icons=true&locale=en" alt="svijaym" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svijaym&" alt="svijaym" /></p>
+[![s vijayaprasad's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=svijaym&&theme=xcode)](https://github.com/svijaym)
