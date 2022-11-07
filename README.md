@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **svijaym6@gmail.com**
 
-- 📄 Check [Resume]([https://drive.google.com/file/d/19nohiQscevjXReQXHWW_dPxdGbfxLvFA/view?usp=sharing](https://drive.google.com/file/d/1Y13ZlW3INVsg-47ZPMek8GFtjPFGq-kG/view?usp=sharing))
+- 📄 Check [Resume](https://drive.google.com/file/d/1Y13ZlW3INVsg-47ZPMek8GFtjPFGq-kG/view?usp=sharing)
 
 - 📄 Know more about me and my work [Portfolio](https://svijaym.github.io/)
 
