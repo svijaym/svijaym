@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Y13ZlW3INVsg-47ZPMek8GFtjPFGq-kG/view?usp=sharing](https://drive.google.com/file/d/1Y13ZlW3INVsg-47ZPMek8GFtjPFGq-kG/view?usp=sharing)
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h3 align="left">Connect with me:</h3>
+<h2 align='center'> 🔍: Connect with me</h2>
 <p align="center">
 <a href="https://twitter.com/svijayaprasad6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="svijayaprasad6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/s vijayaprasad ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s vijayaprasad ." height="30" width="40" /></a>
