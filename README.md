@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm S Vijayaprasad</h1>
 <h3 align="center">I'm a Full Stack Web Developer from india, skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
-<img align="center"  width="1000" src='https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif' alt='banner' />
+<img align="center"  width="1000" height="800" src='https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif' alt='banner' />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svijaym&label=Profile%20views&color=0e75b6&style=flat" alt="svijaym" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svijaym" alt="svijaym" /></a> </p>
