@@ -58,9 +58,13 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=svijaym&show_icons=true&locale=en&layout=compact" alt="svijaym" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=svijaym&show_icons=true&locale=en" alt="svijaym" /></p>
+<img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<h2 align='center'>📊 My Github Stats</h2>
+<div style="display: flex; margin:auto; padding:10px">
+    <img width="400px" height="200px" alt="S vijayaprasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=svijaym&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+    <img width="400px" height="200px" alt="S vijayaprasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svijaym&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+   <img  width="400px" height="200px" alt="S vijayaprasad's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=svijaym&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svijaym&" alt="svijaym" /></p>
 
