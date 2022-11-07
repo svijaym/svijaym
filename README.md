@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Web Development And DSA**
 
-- 👨‍💻 All of my projects are available at [https://svijaym.github.io](https://svijaym.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/svijaym]( https://github.com/svijaym) 
 
 - 📝 I regularly write articles on [https://medium.com/@svijaym6](https://medium.com/@svijaym6)
 
@@ -17,7 +17,10 @@
 
 - 📫 How to reach me **svijaym6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y13ZlW3INVsg-47ZPMek8GFtjPFGq-kG/view?usp=sharing](https://drive.google.com/file/d/1Y13ZlW3INVsg-47ZPMek8GFtjPFGq-kG/view?usp=sharing)
+- 📄 Check [Resume]([https://drive.google.com/file/d/19nohiQscevjXReQXHWW_dPxdGbfxLvFA/view?usp=sharing](https://drive.google.com/file/d/1Y13ZlW3INVsg-47ZPMek8GFtjPFGq-kG/view?usp=sharing))
+
+- 📄 Know more about me and my work [Portfolio](https://svijaym.github.io/)
+
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align='center'> 🔍: Connect with me</h2>
 <p align="center">
