@@ -63,7 +63,6 @@
 <div style="display: flex; margin:auto; padding:10px">
     <img width="400px" height="200px" alt="S vijayaprasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=svijaym&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
     <img width="400px" height="200px" alt="S vijayaprasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svijaym&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-   <img  width="400px" height="200px" alt="S vijayaprasad's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=svijaym&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
 <div align='center'><img  width="400px" height="200px" alt="S vijayaprasad's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=svijaym&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></div>
 
