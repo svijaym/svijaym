@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/svijayaprasad6" target="blank"><img src="https://img.shields.io/twitter/follow/svijayaprasad6?logo=twitter&style=for-the-badge" alt="svijayaprasad6" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Web Development And DSA**
+- 🌱 I am currently learning **MERN Stack Web Development And DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/svijaym]( https://github.com/svijaym) 
 
