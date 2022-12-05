@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **svijaym6@gmail.com**
 
--📫 How to reach me  **https://www.linkedin.com/in/s-vijayaprasad/**
-
 - 📄 Check [Resume](https://drive.google.com/file/d/1Y13ZlW3INVsg-47ZPMek8GFtjPFGq-kG/view?usp=sharing)
 
 - 📄 Know more about me and my work [Portfolio](https://svijaym.github.io/)
