@@ -9,7 +9,7 @@
 
 - 🌱 I am currently learning **MERN Stack Web Development And DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/svijaym](https://svijaym.github.io/)
+- 👨‍💻 All of my projects are available at [https://svijaym.github.io](https://svijaym.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@svijaym6](https://medium.com/@svijaym6)
 
