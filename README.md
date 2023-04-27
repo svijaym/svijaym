@@ -19,7 +19,7 @@
 
 - 📄 Check [Resume](https://drive.google.com/file/d/1Y13ZlW3INVsg-47ZPMek8GFtjPFGq-kG/view?usp=sharing)
 
-- 📄 My Portfolio [https://svijaym.github.io/](https://svijaym.github.io/)
+- 📄 My Portfolio [https://svijaym.github.io/](https://svijaym.github.io)
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align='center'> 🔍: Connect with me</h2>
